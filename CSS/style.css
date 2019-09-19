@@ -1,0 +1,45 @@
+		/*whole site*/
+
+		#site_background {
+			background-color: #FFCDB2;
+		}	
+
+		/*cards*/
+
+		.card-boarder {
+			border:2px solid black;
+			width:200px;
+			height:200px;
+			background-color: #E5989B;
+
+		}
+
+		.img-container {
+			visibility: hidden;
+			width:200px;
+			height:200px;
+			border:2px solid black;
+			background-repeat: no-repeat;
+		  	background-size:cover;
+		  	background-position:center center;  
+		}
+
+		div.d-flex {
+			border:none;
+		}
+
+		.hiddendiv {
+			border:none;
+		}
+
+		/*reset button*/
+
+		button {
+			 font-size: 40px;
+			 border:1px solid black;
+			 border-radius:90%;
+			 background-color: #B5838D;
+			 width:150px;
+			 color:white;
+
+		}
